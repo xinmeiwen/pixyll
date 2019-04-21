@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jason Akatiff : always recommend as close to white as possible'
-date: 2019-03-31 16:01:00 +0000
+date: 2019-04-20 16:01:00 +0000
 summary: Jason Akatiff, San Diego, California. I started in Affiliate Marketing in
   2003. I run traffic to around 100 verticals and used all the main traffic sources.
 categories: affiliate
