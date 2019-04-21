@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Affiliate Marketing Acronyms
-date: 2019-04-20 16:59:00 +0000
+date: 2019-04-19 16:59:00 +0000
 summary: 'Be it EPC, CPA, CJ, PMA, or anything else, you want to be comfortable using
   the most popular affiliate marketing abbreviations if you’re involved in affiliate
   marketing in any capacity. '
