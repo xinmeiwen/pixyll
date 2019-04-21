@@ -22,5 +22,3 @@ fields:
 - type: text
   name: categories
   label: categories
-pages:
-- _posts/jason-akatiff-always-recommend-as-close-to-white-as-possible.md
