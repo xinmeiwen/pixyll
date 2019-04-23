@@ -14,9 +14,6 @@
   font-size: $h2;
 }
 
-.site-nav {
-  padding-top: $nav-padding;
-}
 
 .site-header nav a {
   color: $nav-color;
@@ -49,6 +46,7 @@
 }
 
 .site-header {
+  box-shadow: inset 0 -1px 0 0 #fff, 0 1px 5px rgba(0,0,0,.1);
   text-align: center;
 }
 
