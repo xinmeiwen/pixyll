@@ -22,3 +22,5 @@ fields:
 - type: text
   name: categories
   label: categories
+pages:
+- _posts/a-way-of-making-money-online-by-promoting-someone-else-s-products.md
