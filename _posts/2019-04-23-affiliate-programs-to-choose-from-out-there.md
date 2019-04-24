@@ -13,9 +13,9 @@ There are tons of affiliate programs to choose from out there. Just type “affi
 But all that aside. There are a couple of major affiliate networks worth mentioning in this answer.
 
 1. [ClickBank](http://www.clickbank.com/) - By far the most well known affiliate network for digital products
-2. [JVZoo](https://www.jvzoo.com/register/942461) - I would say this is a close second to clickbank with tons of affiliate products to promote.
+2. [JVZoo](https://www.jvzoo.com/) - I would say this is a close second to clickbank with tons of affiliate products to promote.
 3. [Amazon Associates](https://affiliate-program.amazon.com/) - By far the best affiliate program for physical products
-4. [MaxBounty](http://www.maxbounty.com/index.cfm?referer=296005) - Maybe the best know affiliate network for CPA (cost per action/acquisition) offers
+4. [MaxBounty](http://www.maxbounty.com/) - Maybe the best know affiliate network for CPA (cost per action/acquisition) offers
 5. [PeerFly](https://peerfly.com/) - Also a great affiliate network for CPA offers
 
 This is just a small list of some of the best affiliate networks out there.
