@@ -5,12 +5,17 @@ permalink: "/about/"
 tags: about
 
 ---
-Disclaimer
+Affiliate marketing is basically a type of performance marketing strategy that is based on sales and leads. You have affiliates who link to your page. If a visitor buys your product through that particular link, you give the affiliate a certain percentage of that sale.
 
-![](/uploads/stm.jpg)
+The biggest advantage of affiliate marketing is that it has minimal risk as you only pay for performance. You can also gauge which links work and which don't which can help you determine your future strategy with respect to your affiliate marketers.
 
-No part of this report may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording or by any information storage and retrieval system, without written permission from STMForum.com or iStack Holdings Inc.
+![](https://qph.fs.quoracdn.net/main-qimg-9d8d40cd005d11fd23b22661d32c8581.webp)
 
-The insights provided by each individual affiliate or company representative are their respective opinions. The reader is solely responsible for deciding whether or not to act on the advice presented in this report. STMForum.com or iStack Holdings Inc. cannot be held responsible for any outcome that may result from the implementation of the ideas presented in this report.
+In simple words, the concept of affiliate marketing is to promote other people's products through an affiliate network and earn commission if people actually buy the product. The entire concept is based on revenue sharing - if you have something of value to offer, get somebody to talk about it. If they help land a customer, they share the revenue with you.
 
-STMForum.com or iStack Holdings Inc. do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions, whether such errors or omissions result from accident, negligence, or any other cause.
+Here are a few tips on how to start with affiliate marketing:
+
+1. Be observant and know what your competitor is doing
+2. Identify and understand the metrics they use
+3. Gain insight on your competitor's affiliate marketing activities - what works, what doesn't, which channels are the best and so on
+4. Clearly establish what you want out of your affiliate program
