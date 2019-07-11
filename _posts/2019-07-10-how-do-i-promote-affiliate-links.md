@@ -2,7 +2,8 @@
 layout: post
 title: How do I promote affiliate links?
 date: 2019-07-10 16:04:00 +0000
-summary: ''
+summary: You can promote your link the free way and/or the paid way. So starting with
+  our favorite four letter word FREE…
 categories: affiliate
 
 ---
