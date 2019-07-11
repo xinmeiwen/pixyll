@@ -2,7 +2,8 @@
 layout: post
 title: Can you coach me on how to make Amazon affiliate sites?
 date: 2019-07-10 16:00:00 +0000
-summary: Amazon
+summary: As an Amazon affiliate myself, I woud say that making an Amazon niche site
+  is different from other niche sites for a few reasons
 categories: Amazon
 
 ---
