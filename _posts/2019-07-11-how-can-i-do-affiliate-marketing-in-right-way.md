@@ -2,7 +2,8 @@
 layout: post
 title: How can I do affiliate marketing in right way?
 date: 
-summary: ''
+summary: 'The first thing you need to do when starting as an affiliate marketer is
+  to choose a niche. '
 categories: affiliate
 
 ---
