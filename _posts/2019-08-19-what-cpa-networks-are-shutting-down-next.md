@@ -2,7 +2,9 @@
 layout: post
 title: What CPA Networks Are Shutting Down Next
 date: 2019-08-19 16:00:00 +0000
-summary: What-CPA-Networks-Are-Shutting-Down-Next
+summary: 'After speaking with dozens of people who attended affiliate summit this
+  year, they had the same thing to say: the market is changing fast and the affiliate
+  and performance marketing industry is over as we know it.'
 categories: affiliate
 
 ---
